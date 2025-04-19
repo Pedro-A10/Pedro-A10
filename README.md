@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Pedro</h1>
-<h3 align="center">Estudante de programação para back-end em java</h3>
+<h3 align="center">Dev. back-end em java</h3>
 
 - 🔭 Atualmente sou estudante da **Estacio**
 
