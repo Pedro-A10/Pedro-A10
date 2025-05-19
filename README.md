@@ -3,8 +3,7 @@
 
 - 🔭 Estudante de **Ciências da Computação**
 
-- 🌱 Atualmente aprendendo **Azure** <p align="left"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a>
-
+- 🌱 Atualmente aprendendo **Azure** <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 - 💬 Pergunte sobre **java**
 
 <h3 align="left">Connect with me:</h3>
