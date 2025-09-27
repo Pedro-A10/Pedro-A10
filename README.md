@@ -1,4 +1,4 @@
-<h1 align="center"> Pedro A. | Explorador do Universo Java ☄️</h1>
+<h1 align="center"> Pedro A.</h1>
 <h3 align="center"> Desenvolvedor Back-end em Java | Cientista da Computação em formação</h3>
 
 ---
