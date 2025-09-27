@@ -44,7 +44,7 @@
 > Aqui estão alguns dos meus projetos:
 
 -  [**Xadrez-Java**](https://github.com/Pedro-A10/Xadrez-Java) — Jogo de xadrez com lógica completa em Java
--  [**API GraphQL - Monitoramento de Ecossistemas Aquáticos**](https://github.com/Pedro-A10/API_GraphQL-Monitoramento-de-Ecossistemas_Aquaticos)
+-  [**Opinas**](https://github.com/Pedro-A10/Opinas) — API REST desenvolvida inteiramente com java, possui gerenciamento de usuários e criação de enquetes.
 -  [**Bot WhatsApp Web**](https://github.com/Pedro-A10/BotWhatsapp_Web) — bot para WhatsApp desenvolvido em Java, utilizando Selenium WebDriver para automação do WhatsApp Web
 -  [**WebScraping**](https://github.com/Pedro-A10/WebScraping) — web scraping em Amazon Brasil para buscar informações sobre produtos
 
