@@ -1,18 +1,18 @@
-<h1 align="center">🚀 Pedro A. | Explorador do Universo Java ☄️</h1>
-<h3 align="center">🌠 Desenvolvedor Back-end em Java | Cientista da Computação em formação</h3>
+<h1 align="center"> Pedro A. | Explorador do Universo Java ☄️</h1>
+<h3 align="center"> Desenvolvedor Back-end em Java | Cientista da Computação em formação</h3>
 
 ---
 
-### 👨‍🚀 Sobre mim
+###  Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**
-- 🪐 Apaixonado por tecnologia, APIs e inovação
-- 🧠 Explorando o universo de **Java, Spring Boot e Docker**
-- 🛰️ Em missão de aprendizado contínuo e evolução como dev
+-  Estudante de **Ciência da Computação**
+-  Apaixonado por tecnologia, APIs e inovação
+-  Explorando o universo de **Java, Spring Boot e Docker**
+-  Em missão de aprendizado contínuo e evolução como dev
 
 ---
 
-### 🛰️ Contatos
+###  Contatos
 
 <p align="left">
   <a href="https://instagram.com/pedrok_rodri" target="_blank">
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Ferramentas
+###  Ferramentas
 
 <p align="left">
   <!-- Linguagens -->
@@ -39,18 +39,18 @@
 
 ---
 
-### 🌌 Projetos 
+### Projetos 
 
 > Aqui estão alguns dos meus projetos:
 
-- 🔭 [**Xadrez-Java**](https://github.com/Pedro-A10/Xadrez-Java) — Jogo de xadrez com lógica completa em Java
-- 🌊 [**API GraphQL - Monitoramento de Ecossistemas Aquáticos**](https://github.com/Pedro-A10/API_GraphQL-Monitoramento-de-Ecossistemas_Aquaticos)
-- 🤖 [**Bot WhatsApp Web**](https://github.com/Pedro-A10/BotWhatsapp_Web) — bot para WhatsApp desenvolvido em Java, utilizando Selenium WebDriver para automação do WhatsApp Web
-- 🛰️ [**WebScraping**](https://github.com/Pedro-A10/WebScraping) — web scraping em Amazon Brasil para buscar informações sobre produtos
+-  [**Xadrez-Java**](https://github.com/Pedro-A10/Xadrez-Java) — Jogo de xadrez com lógica completa em Java
+-  [**API GraphQL - Monitoramento de Ecossistemas Aquáticos**](https://github.com/Pedro-A10/API_GraphQL-Monitoramento-de-Ecossistemas_Aquaticos)
+-  [**Bot WhatsApp Web**](https://github.com/Pedro-A10/BotWhatsapp_Web) — bot para WhatsApp desenvolvido em Java, utilizando Selenium WebDriver para automação do WhatsApp Web
+-  [**WebScraping**](https://github.com/Pedro-A10/WebScraping) — web scraping em Amazon Brasil para buscar informações sobre produtos
 
 ---
 
-### 🌠 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-A10&show_icons=true&theme=tokyonight&title_color=ffcc00&icon_color=ffcc00" alt="GitHub Stats" />
