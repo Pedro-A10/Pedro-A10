@@ -45,7 +45,7 @@
 
 -  [**Xadrez-Java**](https://github.com/Pedro-A10/Xadrez-Java) — Jogo de xadrez com lógica completa em Java
 -  [**Opinas**](https://github.com/Pedro-A10/Opinas) — API REST desenvolvida inteiramente com java, possui gerenciamento de usuários e criação de enquetes.
--  [**Bot WhatsApp Web**](https://github.com/Pedro-A10/BotWhatsapp_Web) — bot para WhatsApp desenvolvido em Java, utilizando Selenium WebDriver para automação do WhatsApp Web
+-  [**Bot WhatsApp Web**](https://github.com/Pedro-A10/WhatsApp_Bot) — bot para WhatsApp desenvolvido em Java, utilizando Selenium WebDriver para automação do WhatsApp Web
 -  [**WebScraping**](https://github.com/Pedro-A10/WebScraping) — web scraping em Amazon Brasil para buscar informações sobre produtos
 
 ---
