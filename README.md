@@ -7,7 +7,6 @@
 
 -  Estudante de **Ciência da Computação**
 -  Apaixonado por tecnologia, APIs e inovação
--  Explorando o universo de **Java, Spring Boot e Docker**
 -  Em missão de aprendizado contínuo e evolução como dev
 
 ---
