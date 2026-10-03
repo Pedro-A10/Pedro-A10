@@ -1,5 +1,5 @@
 <h1 align="center"> Pedro A.</h1>
-<h3 align="center"> Desenvolvedor Back-end em Java | Cientista da Computação em formação</h3>
+<h3 align="center"> Desenvolvedor Full-stack | Cientista da Computação em formação</h3>
 
 ---
 
